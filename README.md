@@ -1,6 +1,10 @@
 # serverless-hello-world
 Playground to study serverless framework
 
+Content based on Serverless and GraphQL course from:
+
+[https://acloud.guru/course/serverless-with-graphql/](https://acloud.guru/course/serverless-with-graphql/)
+
 #### 1. Clone this repository:
 
 `git clone https://github.com/rodolfobandeira/serverless-hello-world`
